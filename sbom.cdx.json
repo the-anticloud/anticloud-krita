@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:69444f71-f6b8-59d7-9c85-7791d36fbf69",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-12T08:00:33Z",
+    "component": {
+      "type": "application",
+      "name": "KRITA",
+      "version": "c50533f226c2",
+      "bom-ref": "pkg:generic/anticloud/KRITA@c50533f226c2",
+      "purl": "pkg:generic/anticloud/KRITA@c50533f226c2",
+      "licenses": [
+        {
+          "license": {
+            "id": "NOASSERTION"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "c50533f226c2d8e09fbd8a2120eee72ee0bbb16e"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": ""
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
